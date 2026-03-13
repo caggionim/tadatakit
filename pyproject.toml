@@ -22,7 +22,7 @@ classifiers = [
 
 [tool.poetry.dependencies]
 python = ">=3.9,<4.0"
-pandas = "^2.1.4"
+pandas
 tainstruments-triosdataschema = "0.1.17"
 
 [tool.poetry.dev-dependencies]
